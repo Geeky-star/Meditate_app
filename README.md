@@ -1,16 +1,17 @@
 # meditate_app
 
-A new Flutter project.
+UI of meditate app. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="right">
+<img src = "Screenshots/Screenshot_1604542194.png" width=40% height=40% align="left">
+ <img src = "Screenshots/Screenshot_1604542199.png" width=40% height=40% align="right">
+ </p>
+ 
+ 
+ 
+ <p float = "right">
+<img src = "Screenshots/Screenshot_1604542205.png" width=40% height=40%>
+ <img src = "Screenshots/Screenshot_1604542222.png" width=40% height=40% align="right"> </p>
+ 
+ <p float = "left">
+<img src = "Screenshots/Screenshot_1604542236.png" width=40% height=40%></p>
